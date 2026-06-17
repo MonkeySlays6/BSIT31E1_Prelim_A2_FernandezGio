@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gionf\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F72D86E-E700-4F1C-BB87-E6EB4F55CDD5}|ConsoleApp1.csproj|c:\\users\\gionf\\source\\repos\\consoleapp1\\calculator-starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F72D86E-E700-4F1C-BB87-E6EB4F55CDD5}|ConsoleApp1.csproj|solutionrelative:calculator-starter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "calculator-starter.cs",
+              "DocumentMoniker": "C:\\Users\\gionf\\source\\repos\\ConsoleApp1\\calculator-starter.cs",
+              "RelativeDocumentMoniker": "calculator-starter.cs",
+              "ToolTip": "C:\\Users\\gionf\\source\\repos\\ConsoleApp1\\calculator-starter.cs",
+              "RelativeToolTip": "calculator-starter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T12:10:39.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
